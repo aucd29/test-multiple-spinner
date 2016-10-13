@@ -1,0 +1,46 @@
+<!--
+  ~ Copyright (C) Hanwha S&C Ltd., 2016. All rights reserved.
+  ~
+  ~ This software is covered by the license agreement between
+  ~ the end user and Hanwha S&C Ltd., and may be
+  ~ used and copied only in accordance with the terms of the
+  ~ said agreement.
+  ~
+  ~ Hanwha S&C Ltd., assumes no responsibility or
+  ~ liability for any errors or inaccuracies in this software,
+  ~ or any consequential, incidental or indirect damage arising
+  ~ out of the use of the software.
+  -->
+
+<resources>
+    <string name="app_name">multiple-spinner</string>
+    <string name="sp_prompt">choose</string>
+
+    <string-array name="sp1_data">
+        <item>@string/sp_prompt</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+
+    <string-array name="sp2_a_data">
+        <item>@string/sp_prompt</item>
+        <item>a_1</item>
+        <item>a_2</item>
+        <item>a_3</item>
+    </string-array>
+
+    <string-array name="sp2_b_data">
+        <item>@string/sp_prompt</item>
+        <item>b_1</item>
+        <item>b_2</item>
+    </string-array>
+
+    <string-array name="sp2_c_data">
+        <item>@string/sp_prompt</item>
+        <item>c_1</item>
+        <item>c_2</item>
+        <item>c_3</item>
+        <item>c_4</item>
+    </string-array>
+</resources>
